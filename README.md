@@ -22,7 +22,7 @@ Thanks to the incredible learning resources, guidance, and community provided by
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/dosqas/qgss25.git
+   git clone https://github.com/sebsop/qgss25.git
    ```
 2. Enter the project folder:
 
